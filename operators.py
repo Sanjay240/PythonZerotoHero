@@ -1,0 +1,5 @@
+# different types of opearator -> Artihmetic operators(+,*,**,/,//,%,-), Assignment operators(=, +=, /=, %=)
+# comparison operators(<,>, ==, !=, <=, >=), logical operator (and, or, not)
+# identity operator (is, is not)
+# membership operator (in , not in)
+# bitwise operators (0 - 00, 1 - 01 , & ,|)
