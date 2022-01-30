@@ -1,0 +1,16 @@
+1. Scope and global keyword
+->  global variable = can be accessed by all functions in code
+->  local variable = defined inside the function only avaialble to function
+->  to access a global variable in local scope used the keyword "global"
+->  global keyword always look for the global variable outside the nested functions
+
+2. Recursive and Recursion
+
+-> it means to use a function inside a funcion
+-> haed to back trace 
+
+3. Anonymous/Lamda Expression
+
+-> Expresion lambda a{parameter}: a[1]{result}
+
+4. Using modules in python
