@@ -14,3 +14,6 @@
 -> Expresion lambda a{parameter}: a[1]{result}
 
 4. Using modules in python
+
+5. virtual environmens are use to freeze the programs
+so that it keep working when the imports are updated
